@@ -32,6 +32,17 @@
 
     <dependencies>
         <!-- #Your dependencies -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.0.0-beta3</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.github.sskorol</groupId>
+            <artifactId>test-data-supplier</artifactId>
+            <version>1.7.0</version>
+        </dependency>
     </dependencies>
 
     <build>
