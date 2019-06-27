@@ -1,4 +1,4 @@
-# About ThreadsBecauseOfReasons
+# Krasnale i Nekromanci
 Zadanka do powtórzenia sobie wielowątkowości
 
 ## Prerequisities:
