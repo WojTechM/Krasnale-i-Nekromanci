@@ -11,4 +11,9 @@ class Xardas implements NekromantaBehaviour {
         zwłoki.wskrześ();
         System.out.println("It's ALIVE!");
     }
+
+    @Override
+    public void śmiejSięDemonicznie() {
+        System.out.println("BUHAHAHAHAHAHA");
+    }
 }

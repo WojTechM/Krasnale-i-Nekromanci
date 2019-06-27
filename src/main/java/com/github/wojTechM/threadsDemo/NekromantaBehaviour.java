@@ -5,5 +5,6 @@ package com.github.wojTechM.threadsDemo;
  */
 interface NekromantaBehaviour {
 
+    void śmiejSięDemonicznie();
     void wskrześ(Wskrzeszable zwłoki);
 }
