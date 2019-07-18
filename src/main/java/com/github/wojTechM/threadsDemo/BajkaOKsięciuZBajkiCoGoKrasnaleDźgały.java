@@ -2,7 +2,7 @@ package com.github.wojTechM.threadsDemo;
 
 /**
  * Zadanie bardzo proste. Masz kod obsługujący zwłoki księcia z bajki.
- * Możesz
+ * Możesz wykonać jedną z 3 akcji:
  * a) dostawić 2 znaki/litery/liczby/symbole w kodzie i kod ma zadziałać (dostawianie w printach i komentarzach się nie liczy)
  * b) usunąć 2 znaki w kodzie i kod ma zadziałać (usuwanie w printach i komentarzach się nie liczy)
  * c) zamienić kolejność 2 linijek
