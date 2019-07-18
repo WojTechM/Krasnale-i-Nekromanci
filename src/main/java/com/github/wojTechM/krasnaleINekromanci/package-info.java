@@ -11,8 +11,8 @@
  * No i teraz nekromanta Xardas stara się przywrócić księcia do życia,
  * a Ty mu w tym pomożesz ;)
  *
- * Zasady zabawy do znalezienia w klasie {@link com.github.wojTechM.threadsDemo.BajkaOKsięciuZBajkiCoGoKrasnaleDźgały}
+ * Zasady zabawy do znalezienia w klasie {@link com.github.wojTechM.krasnaleINekromanci.BajkaOKsięciuZBajkiCoGoKrasnaleDźgały}
  *
  * @author Wojciech Makiela
  */
-package com.github.wojTechM.threadsDemo;
+package com.github.wojTechM.krasnaleINekromanci;

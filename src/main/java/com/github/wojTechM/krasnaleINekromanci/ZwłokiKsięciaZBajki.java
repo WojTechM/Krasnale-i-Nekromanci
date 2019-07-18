@@ -1,4 +1,4 @@
-package com.github.wojTechM.threadsDemo;
+package com.github.wojTechM.krasnaleINekromanci;
 
 /**
  * @author Makiela Wojciech

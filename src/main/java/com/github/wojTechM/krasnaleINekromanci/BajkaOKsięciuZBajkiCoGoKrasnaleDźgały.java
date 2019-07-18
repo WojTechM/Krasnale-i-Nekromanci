@@ -1,4 +1,4 @@
-package com.github.wojTechM.threadsDemo;
+package com.github.wojTechM.krasnaleINekromanci;
 
 /**
  * Zadanie bardzo proste. Masz kod obsługujący zwłoki księcia z bajki.
