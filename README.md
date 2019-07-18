@@ -1,5 +1,5 @@
 # Krasnale i Nekromanci
-Zadanka do powtórzenia sobie wielowątkowości
+Zadanko do powtórzenia sobie wielowątkowości
 
 ## Prerequisities:
 Chęć do życia i nauki, oraz Java 8
