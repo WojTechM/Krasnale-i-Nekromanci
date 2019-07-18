@@ -1,5 +1,5 @@
-# About ThreadsBecauseOfReasons
-Zadanka do powtórzenia sobie wielowątkowości
+# Krasnale i Nekromanci
+Zadanko do powtórzenia sobie wielowątkowości
 
 ## Prerequisities:
 Chęć do życia i nauki, oraz Java 8
